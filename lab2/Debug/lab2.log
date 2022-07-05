@@ -1,0 +1,8 @@
+﻿  HashTable.cpp
+  LinkedList.cpp
+  lab2.cpp
+D:\вертолетик\Numfy\асд\lab2\lab2\lab2.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab2\lab2\lab2.cpp(36,41): warning C4244: +=: преобразование "double" в "uint64_t", возможна потеря данных
+D:\вертолетик\Numfy\асд\lab2\lab2\lab2.cpp(38,49): warning C4244: +=: преобразование "double" в "uint64_t", возможна потеря данных
+  Создание кода...
+  lab2.vcxproj -> D:\вертолетик\Numfy\асд\lab2\Debug\lab2.exe
